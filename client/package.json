@@ -63,8 +63,7 @@
     "react-native-toast-notifications": "^3.4.0",
     "react-native-vector-icons": "^10.1.0",
     "react-native-web": "^0.19.10",
-    "react-native-webview": "^13.8.6",
-    "undefined": "\\",
+    "react-native-webview": "^13.8.6",  
     "expo-av": "~14.0.7"
   },
   "devDependencies": {
