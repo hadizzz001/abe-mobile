@@ -1,6 +1,6 @@
 {
   "expo": {
-    "name": "sheikh medlej",
+    "name": "sheikhmedlej",
     "slug": "sheikhmedlej",
     "version": "1.0.0",
     "orientation": "portrait",
@@ -33,6 +33,14 @@
     ],
     "experiments": {
       "typedRoutes": true
+    },
+    "extra": {
+      "router": {
+        "origin": false
+      },
+      "eas": {
+        "projectId": "2af94ade-4bdf-4da3-93f3-38d39c0099a7"
+      }
     }
   }
 }
